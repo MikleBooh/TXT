@@ -1,1 +1,28 @@
-
+{
+"issues": [
+        {
+            "key": "016B7970D27939AEBD",
+            "component": "bits-and-bytes:src/main/java/com/catalystone/statusreview/handler/StatusReviewDecisionLedHandler.java",
+            "line": 15,
+            "startLine": 15,
+            "startOffset": 12,
+            "endLine": 15,
+            "endOffset": 14,
+            "message": "Use the \"equals\" method if value comparison was intended.",
+            "severity": "MAJOR",
+            "rule": "squid:S4973",
+            "status": "OPEN",
+            "isNew": true,
+            "creationDate": "2019-06-21T15:19:18+0530"
+        },
+        {
+            "key": "AWtqCc-jtovxS8PJjBiP",
+            "component": "bits-and-bytes:src/test/java/com/catalystone/statusreview/service/StatusReviewInitiationSerivceTest.java",
+            "message": "Fix failing unit tests on file \"src/test/java/com/catalystone/statusreview/service/StatusReviewInitiationSerivceTest.java\".",
+            "severity": "MAJOR",
+            "rule": "common-java:FailedUnitTests",
+            "status": "OPEN",
+            "isNew": false,
+            "creationDate": "2019-06-18T15:32:08+0530"
+        }
+    ]
