@@ -1,0 +1,6 @@
+Name: Mikle
+Second Name: Booh
+Third Name: Anatolevich
+Age: 31
+Home animals: Null
+Wanted salary: three hundred backs
